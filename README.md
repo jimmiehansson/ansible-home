@@ -6,3 +6,5 @@ All playbooks are located under their respective folder `<playbook>/`
 
 ### Templates
 All templates are located under templates `/templates`
+
+❤️ to Ansible and AWX 
